@@ -11,7 +11,7 @@
 
 
 2. Change path in the terminal to the application folder
-    '''cd application'''
+    ```cd application```
 3. Run the app
-    '''python run.py'''
+    ```python run.py```
 
