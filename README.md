@@ -5,8 +5,11 @@
 1. Change your db info in meny.py
 
     >host="localhost",
+    
     >database="project_demo",
+    
     >user="postgres",
+    
     >password="password"
 
 
